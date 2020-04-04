@@ -1,0 +1,1 @@
+1. nginx 的配置文件是 nginx.conf
